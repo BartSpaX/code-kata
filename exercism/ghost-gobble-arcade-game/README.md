@@ -1,4 +1,5 @@
 # Ghost Gobble Arcade Game
+![Static Badge](https://img.shields.io/badge/Link-To%20Exercise-blue?link=https%3A%2F%2Fexercism.org%2Ftracks%2Fpython%2Fexercises%2Fghost-gobble-arcade-game)
 
 ## Instructions
 
