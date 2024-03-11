@@ -1,7 +1,7 @@
 # Darts
 [![Static Badge](https://img.shields.io/badge/Link-To%20Exercise-blue)](https://exercism.org/tracks/python/exercises/darts)
 
-### Instructions
+## Instructions
 
 Write a function that returns the earned points in a single toss of a Darts 
 game.
